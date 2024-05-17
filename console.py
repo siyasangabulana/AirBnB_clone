@@ -1,4 +1,5 @@
-ole """
+#!/usr/bin/python3
+""" conole """
 
 import cmd
 from datetime import datetime
