@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-""" ho
-lds class State"""
+"""holds class State"""
 import models
 from models.base_model import BaseModel, Base
 from models.city import City

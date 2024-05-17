@@ -1,6 +1,5 @@
 #!/usr/bin/python
-"""
-lds class Amenity"""
+"""holds class Amenity"""
 import models
 from models.base_model import BaseModel, Base
 from os import getenv

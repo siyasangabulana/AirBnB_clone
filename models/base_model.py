@@ -1,7 +1,5 @@
 #!/usr/bin/python3
-"""
-ontains class BaseModel
-"""
+"""holds class Amenity"""
 
 from datetime import datetime
 import models
